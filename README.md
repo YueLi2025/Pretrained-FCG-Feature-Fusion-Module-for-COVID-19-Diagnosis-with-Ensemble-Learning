@@ -1,1 +1,1 @@
-# Pretrained-FCG-Feature-Fusion-Module-for-COVID-19-Diagnosis-with-Ensemble-Learning
+# Improving COVID-19 Diagnosis via Pre-trained Fine- and Coarse-Grained Feature Fusion Module and Ensemble Learning
