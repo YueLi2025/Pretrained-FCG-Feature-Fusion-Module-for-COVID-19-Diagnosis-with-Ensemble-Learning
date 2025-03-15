@@ -92,20 +92,6 @@ Our approach surpasses existing methods in classification accuracy:
 
 Using **Grad-CAM visualization**, we can see that our model focuses on **disease-relevant lung regions**, improving diagnostic reliability. 📱
 
----
-
-## 🐝 Citation
-
-If you find this work useful, please consider citing:
-
-```
-@article{li2025covid,
-  author    = {Yue Li},
-  title     = {Improving COVID-19 Diagnosis via Pre-trained Fine- and Coarse-Grained Feature Fusion Module and Ensemble Learning},
-  journal   = {Medical AI Journal},
-  year      = {2025}
-}
-```
 
 ---
 
